@@ -1,0 +1,43 @@
+.login-form{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 30px;
+    margin-top: 100px;
+}
+
+.login-form h1{
+    text-align: center;
+
+}
+.login-form label{
+    font-weight: bold;
+}
+
+.login-btn button{
+    padding: 10px;
+    display: block;
+    background-color: #000;
+    color: #fff;
+
+}
+
+.login-form p{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.login-form p a{
+    text-decoration: none;
+    border-bottom: 1px solid green;
+    color: green;
+    font-size: 18px;
+
+}
+
+
+p.error_msg{
+    color: red;
+    text-align: center;
+    
+}
